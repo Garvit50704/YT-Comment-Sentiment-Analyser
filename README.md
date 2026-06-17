@@ -192,14 +192,6 @@ npm run dev
 
 ---
 
-# 👨‍💻 Authors
-
-- **Rohit Kadian**
-- **Vardan Kadian**
-- **Manish Kumar**
-
----
-
 # 📌 Acknowledgements
 
 - Kaggle Datasets *(YouTube Comments & Toxicity)*
