@@ -2,7 +2,7 @@
 
 An end-to-end **Machine Learning + NLP web application** that analyzes YouTube comments to classify **sentiment (Positive, Negative, Neutral)** and detect **toxic content in real-time**.
 
-🔗 **GitHub Repository:** https://github.com/Rohit-code-77/APEX-YT-COMMENT-SENTIMENT-ANALYSER.git
+🔗 **GitHub Repository:** https://github.com/Garvit50704/YT-Comment-Sentiment-Analyser
 
 ---
 
@@ -147,8 +147,8 @@ Analytics Dashboard
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Rohit-code-77/APEX-YT-COMMENT-SENTIMENT-ANALYSER.git
-cd APEX-YT-COMMENT-SENTIMENT-ANALYSER
+git clone https://github.com/Garvit50704/YT-Comment-Sentiment-Analyser.git
+cd YT-Comment-Sentiment-Analyser
 ```
 
 ### 2️⃣ Install Dependencies
