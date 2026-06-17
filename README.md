@@ -2,8 +2,6 @@
 
 An end-to-end **Machine Learning + NLP web application** that analyzes YouTube comments to classify **sentiment (Positive, Negative, Neutral)** and detect **toxic content in real-time**.
 
-🔗 **Live Demo:** https://apex-yt-comment-sentiment-analyser-three.vercel.app/
-
 🔗 **GitHub Repository:** https://github.com/Rohit-code-77/APEX-YT-COMMENT-SENTIMENT-ANALYSER.git
 
 ---
